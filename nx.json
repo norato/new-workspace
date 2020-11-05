@@ -29,6 +29,9 @@
     "foobar-e2e": {
       "tags": [],
       "implicitDependencies": ["foobar"]
+    },
+    "ui": {
+      "tags": []
     }
   }
 }
